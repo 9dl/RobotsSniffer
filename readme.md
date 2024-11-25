@@ -1,6 +1,6 @@
 # RobotsSniffer
 
-![img.png](img.png)
+![image.png](image.png)
 
 **RobotsSniffer** is a command-line tool written in C# for analyzing the `robots.txt` files of websites. The tool
 retrieves and parses `robots.txt` files to determine which paths are allowed or disallowed for web crawlers, helping
