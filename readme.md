@@ -19,8 +19,8 @@ users understand site restrictions and accessibility rules.
 
 ## Requirements
 
-- .NET 6 or higher.
-- Internet connection to access the specified URLs.
+- .NET 9 (for Compiling/Debugging)
+- Brain (optional)
 
 ---
 
